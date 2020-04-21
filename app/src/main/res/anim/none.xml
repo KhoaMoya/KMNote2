@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created at 9/28/19 2:26 PM by Khoa
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:duration="300"
+        android:toAlpha="1"
+        android:fromAlpha="1"/>
+</set>

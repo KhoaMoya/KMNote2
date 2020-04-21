@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992643608339",
+    "firebase_url": "https://kmnote2-661a0.firebaseio.com",
+    "project_id": "kmnote2-661a0",
+    "storage_bucket": "kmnote2-661a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992643608339:android:844460d9e67411d98174e6",
+        "android_client_info": {
+          "package_name": "com.khoa.kmnote2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992643608339-oe617orhgjcku3dedotinao00h76ei0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7a0fMmRbF9bCi1g77YlMTOzXtllfa6Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992643608339-oe617orhgjcku3dedotinao00h76ei0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
